@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on 普通java开发者</title>
+    <link>https://example.org/tags/tag2/</link>
+    <description>Recent content in tag2 on 普通java开发者</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 27 May 2020 22:37:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agile</title>
+      <link>https://example.org/2020/05/agile/</link>
+      <pubDate>Wed, 27 May 2020 22:37:33 +0800</pubDate>
+      
+      <guid>https://example.org/2020/05/agile/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

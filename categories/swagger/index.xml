@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swagger on 普通java开发者</title>
+    <link>https://example.org/categories/swagger/</link>
+    <description>Recent content in swagger on 普通java开发者</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 07 Nov 2019 17:32:39 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/swagger/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Swagger</title>
+      <link>https://example.org/2019/11/swagger/</link>
+      <pubDate>Thu, 07 Nov 2019 17:32:39 +0800</pubDate>
+      
+      <guid>https://example.org/2019/11/swagger/</guid>
+      <description>&lt;p&gt;Swagger是用于前后端分离的api框架,基于RestFul Api风格的文档在线自动生成工具.&lt;br /&gt;
+可以实现Api文档与Api定义同步更新,支持在线测试.&lt;br /&gt;
+&lt;span class=&#34;highlight-text red&#34;&gt;
+注意:在正式发布的时候关闭swagger!!
+&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
