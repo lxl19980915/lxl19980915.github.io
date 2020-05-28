@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AJAx on 普通java开发者</title>
-    <link>https://example.org/tags/ajax/</link>
+    <link>http://lxl19980915.github.io/tags/ajax/</link>
     <description>Recent content in AJAx on 普通java开发者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 07 Nov 2019 18:55:59 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lxl19980915.github.io/tags/ajax/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AJAX</title>
-      <link>https://example.org/2019/11/ajax/</link>
+      <link>http://lxl19980915.github.io/2019/11/ajax/</link>
       <pubDate>Thu, 07 Nov 2019 18:55:59 +0800</pubDate>
       
-      <guid>https://example.org/2019/11/ajax/</guid>
+      <guid>http://lxl19980915.github.io/2019/11/ajax/</guid>
       <description>&lt;p&gt;AJAX:Asynchronous JavaScript and XML，意思就是用JavaScript执行异步网络请求。&lt;br /&gt;
 &lt;span class=&#34;highlight-text red&#34;&gt;
 即在不刷新页面的情况下,不断更新数据.本质是XMLHttpRequest (页面请求类型是xhr)

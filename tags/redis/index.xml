@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Redis on 普通java开发者</title>
-    <link>https://example.org/tags/redis/</link>
+    <link>http://lxl19980915.github.io/tags/redis/</link>
     <description>Recent content in Redis on 普通java开发者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 10 Nov 2019 15:57:11 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/redis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lxl19980915.github.io/tags/redis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Redis-1.简介安装与配置</title>
-      <link>https://example.org/2019/11/redis-1.%E7%AE%80%E4%BB%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
+      <link>http://lxl19980915.github.io/2019/11/redis-1.%E7%AE%80%E4%BB%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
       <pubDate>Sun, 10 Nov 2019 15:57:11 +0800</pubDate>
       
-      <guid>https://example.org/2019/11/redis-1.%E7%AE%80%E4%BB%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
+      <guid>http://lxl19980915.github.io/2019/11/redis-1.%E7%AE%80%E4%BB%8B%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
       <description>&lt;p&gt;Redis的简介,安装,配置与启动&lt;/p&gt;</description>
     </item>
     

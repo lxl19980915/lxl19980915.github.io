@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 普通java开发者</title>
-    <link>https://example.org/categories/</link>
+    <link>http://lxl19980915.github.io/categories/</link>
     <description>Recent content in Categories on 普通java开发者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Wed, 27 May 2020 22:37:33 +0800</lastBuildDate>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lxl19980915.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>category</title>
-      <link>https://example.org/categories/category/</link>
+      <link>http://lxl19980915.github.io/categories/category/</link>
       <pubDate>Wed, 27 May 2020 22:37:33 +0800</pubDate>
       
-      <guid>https://example.org/categories/category/</guid>
+      <guid>http://lxl19980915.github.io/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
       <title>subcategory</title>
-      <link>https://example.org/categories/subcategory/</link>
+      <link>http://lxl19980915.github.io/categories/subcategory/</link>
       <pubDate>Wed, 27 May 2020 22:37:33 +0800</pubDate>
       
-      <guid>https://example.org/categories/subcategory/</guid>
+      <guid>http://lxl19980915.github.io/categories/subcategory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redis</title>
-      <link>https://example.org/categories/redis/</link>
+      <link>http://lxl19980915.github.io/categories/redis/</link>
       <pubDate>Sun, 10 Nov 2019 15:57:11 +0800</pubDate>
       
-      <guid>https://example.org/categories/redis/</guid>
+      <guid>http://lxl19980915.github.io/categories/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://example.org/categories/git/</link>
+      <link>http://lxl19980915.github.io/categories/git/</link>
       <pubDate>Fri, 08 Nov 2019 17:04:56 +0800</pubDate>
       
-      <guid>https://example.org/categories/git/</guid>
+      <guid>http://lxl19980915.github.io/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AJAX</title>
-      <link>https://example.org/categories/ajax/</link>
+      <link>http://lxl19980915.github.io/categories/ajax/</link>
       <pubDate>Thu, 07 Nov 2019 18:55:59 +0800</pubDate>
       
-      <guid>https://example.org/categories/ajax/</guid>
+      <guid>http://lxl19980915.github.io/categories/ajax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>swagger</title>
-      <link>https://example.org/categories/swagger/</link>
+      <link>http://lxl19980915.github.io/categories/swagger/</link>
       <pubDate>Thu, 07 Nov 2019 17:32:39 +0800</pubDate>
       
-      <guid>https://example.org/categories/swagger/</guid>
+      <guid>http://lxl19980915.github.io/categories/swagger/</guid>
       <description></description>
     </item>
     
