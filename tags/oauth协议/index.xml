@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>杂谈 on 普通java开发者</title>
-    <link>http://lxl19980915.github.io/categories/%E6%9D%82%E8%B0%88/</link>
-    <description>Recent content in 杂谈 on 普通java开发者</description>
+    <title>OAuth协议 on 普通java开发者</title>
+    <link>http://lxl19980915.github.io/tags/oauth%E5%8D%8F%E8%AE%AE/</link>
+    <description>Recent content in OAuth协议 on 普通java开发者</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Thu, 28 May 2020 18:47:22 +0800</lastBuildDate>
     
-	<atom:link href="http://lxl19980915.github.io/categories/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://lxl19980915.github.io/tags/oauth%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>http://lxl19980915.github.io/2020/05/oauth%E5%8D%8F%E8%AE%AE/</guid>
       <description>&lt;p&gt;oAuth协议为用户资源的授权提供了一个安全的、开放而又简易的标准。与以往的授权方式不同之处是 oAuth 的授权不会使第三方触及到用户的帐号信息（如用户名与密码），&lt;strong&gt;即第三方无需使用用户的用户名与密码就可以申请获得该用户资源的授权&lt;/strong&gt;，因此 oAuth 是安全的。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>敏捷开发</title>
-      <link>http://lxl19980915.github.io/2020/05/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/</link>
-      <pubDate>Wed, 27 May 2020 14:11:54 +0800</pubDate>
-      
-      <guid>http://lxl19980915.github.io/2020/05/%E6%95%8F%E6%8D%B7%E5%BC%80%E5%8F%91/</guid>
-      <description>&lt;p&gt;敏捷编程,并不是舍弃产品质量只追求速度的开发方式.&lt;/p&gt;</description>
     </item>
     
   </channel>
